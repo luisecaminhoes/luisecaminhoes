@@ -1,8 +1,8 @@
 ## Bença 😋🤙
 Meu nome é Luise Neubauer Picanço
--Estou estudando na Alura
--Estou me desenvolvendo na linguagem JavaScript
--Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+- Estou estudando na Alura
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
 ![https://tenor.com/pt-BR/view/happy-cat-happy-happy-cat-happy-happy-happy-cat-happy-happy-happy-cat-meme-gif-10674288337814969177](link)
 <!--
