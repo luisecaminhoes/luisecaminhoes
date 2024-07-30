@@ -3,8 +3,7 @@ Meu nome é Luise Neubauer Picanço
 - Estou estudando na Alura
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
-
-![https://tenor.com/pt-BR/view/happy-cat-happy-happy-cat-happy-happy-happy-cat-happy-happy-happy-cat-meme-gif-10674288337814969177](link)
+![![happy-cat-happy-happy-cat](https://github.com/user-attachments/assets/563a5f7d-3016-484b-8ece-baa212c800ee)
 <!--
 **luisecaminhoes/luisecaminhoes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
